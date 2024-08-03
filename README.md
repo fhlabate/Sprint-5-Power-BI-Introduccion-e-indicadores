@@ -10,7 +10,4 @@ En este sprint, empezarás a aplicar tus conocimientos prácticos en Power BI ut
 
 ![image](https://github.com/user-attachments/assets/181a99e8-8977-40a8-866b-28188b4ae1af)
 
-![image](https://github.com/user-attachments/assets/b5248ddb-8c4c-414a-863c-d4cf4eea1bc0)
-
-
-
+![image](https://github.com/user-attachments/assets/f949ccaa-ad5b-4684-a82d-7feca20eef3e)
