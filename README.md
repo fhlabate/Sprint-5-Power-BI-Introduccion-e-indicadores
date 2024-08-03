@@ -1,3 +1,16 @@
 # Sprint 5 Power BI Introducci i indicadors
 
-Durant aquest sprint, faràs els teus primers passos en Power BI, explorant els seus fonaments essencials i familiaritzant-te amb la seva interfície a través d'exercicis pràctics. Abordarem conceptes clau, des de la importació, transformació i càrrega de dades, fins a la creació d'indicadors clau de rendiment utilitzant expressions en l'anàlisi de dades mitjançant Data Analysis Expressions (DAX).
+En este sprint, empezarás a aplicar tus conocimientos prácticos en Power BI utilizando la base de datos previamente utilizada, que contiene información sobre una empresa dedicada a la venta de productos online. Durante los ejercicios, es necesario que dediques esfuerzos a mejorar la legibilidad de las visualizaciones, asegurándote de seleccionar las representaciones visuales más adecuadas para presentar la información de forma clara y sencilla. No olvides agregar títulos descriptivos a tus gráficos para facilitar la comprensión de la información visualizada.
+
+# Dashboards finales
+
+![image](https://github.com/user-attachments/assets/d8e685d3-ef8b-47bf-aceb-4232f1947ed2)
+
+![image](https://github.com/user-attachments/assets/50d37489-419b-410b-b93f-b92e5e1f2d70)
+
+![image](https://github.com/user-attachments/assets/181a99e8-8977-40a8-866b-28188b4ae1af)
+
+![image](https://github.com/user-attachments/assets/b5248ddb-8c4c-414a-863c-d4cf4eea1bc0)
+
+
+
