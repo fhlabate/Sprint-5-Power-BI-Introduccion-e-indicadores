@@ -4,7 +4,7 @@ En este sprint, empezarás a aplicar tus conocimientos prácticos en Power BI ut
 
 # Dashboards finales
 
-![image](https://github.com/user-attachments/assets/d8e685d3-ef8b-47bf-aceb-4232f1947ed2)
+![image](https://github.com/user-attachments/assets/76b42ee9-e60a-403d-a0c2-a7dbbe1fd770)
 
 ![image](https://github.com/user-attachments/assets/50d37489-419b-410b-b93f-b92e5e1f2d70)
 
