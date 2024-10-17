@@ -1,4 +1,4 @@
-# Sprint 5 Power BI Introducci i indicadors
+# Sprint 5 Power BI Introducción e indicadores
 
 En este sprint, empezarás a aplicar tus conocimientos prácticos en Power BI utilizando la base de datos previamente utilizada, que contiene información sobre una empresa dedicada a la venta de productos online. Durante los ejercicios, es necesario que dediques esfuerzos a mejorar la legibilidad de las visualizaciones, asegurándote de seleccionar las representaciones visuales más adecuadas para presentar la información de forma clara y sencilla. No olvides agregar títulos descriptivos a tus gráficos para facilitar la comprensión de la información visualizada.
 
